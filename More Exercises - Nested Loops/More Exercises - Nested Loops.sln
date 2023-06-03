@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Wedding Seats", "05. Challenge the Wedding\06. Wedding Seats.csproj", "{AB026616-1C35-4F17-8362-D8522933E54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Safe Passwords Generator", "07. Safe Passwords Generator\07. Safe Passwords Generator.csproj", "{B86703D9-0797-4834-A8F5-271E23F99DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB026616-1C35-4F17-8362-D8522933E54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB026616-1C35-4F17-8362-D8522933E54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB026616-1C35-4F17-8362-D8522933E54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB026616-1C35-4F17-8362-D8522933E54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86703D9-0797-4834-A8F5-271E23F99DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86703D9-0797-4834-A8F5-271E23F99DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86703D9-0797-4834-A8F5-271E23F99DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86703D9-0797-4834-A8F5-271E23F99DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89D309CD-1A06-43B1-A204-B9B9D46DAE94}
+	EndGlobalSection
+EndGlobal
